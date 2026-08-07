@@ -92,4 +92,7 @@ assets/
 
 ## Authors
 
-- Your Name
+- Pranita Singh
+- Amit Kumar Sahoo
+- Srinivas Kalyan
+- Konark Gosain
