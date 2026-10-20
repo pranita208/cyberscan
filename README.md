@@ -90,9 +90,4 @@ assets/
 
 ---
 
-## Authors
 
-- Pranita Singh
-- Amit Kumar Sahoo
-- Srinivas Kalyan
-- Konark Gosain
